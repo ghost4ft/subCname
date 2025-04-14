@@ -2,7 +2,7 @@
 
 `SubCNAME Hunter` is a Python tool that helps discover subdomains for a given domain, retrieve their CNAME records, check their availability, and save the results to files. It combines the use of `subfinder`, `dig`, and `httpx` to provide a full subdomain enumeration and CNAME checking solution.
 
-### Created by [ghost4ft] 🐺
+### Created by [ghost4ft] 
 
 ---
 
@@ -24,10 +24,10 @@ To use this application, you will need the following tools installed:
 - **httpx**: For checking if URLs are alive.
 
 ### Install Required Libraries
-To install the necessary Python libraries, create a virtual environment and install the dependencies:
+- To install the necessary Python libraries, create a virtual environment and install the dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 ### Usage
-python subcname_hunter.py example.com
+- ```python subcname_hunter.py example.com```
