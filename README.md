@@ -30,4 +30,6 @@ To use this application, you will need the following tools installed:
 pip install -r requirements.txt
 ```
 ### Usage
-- ```python subcname_hunter.py example.com```
+```bsdh
+python subcname_hunter.py example.com
+```
